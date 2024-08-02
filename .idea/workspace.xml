@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dab3d4a4-f8c5-4e56-8851-172bd5a70500" name="Changes" comment="Adding linear search programs to day4 branch">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all_occurrences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_linear_search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/character_occurrence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_nonduplicate_character.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_occurrence_number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_linear_search.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vijayn-13&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vijayn-13/Training-Day4-Assignments.git&quot;,
+    &quot;accountId&quot;: &quot;579e6e0f-4785-4e36-8f04-c5d1da8ccf95&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2juwUXxnR7iNKh13fjL3nktpr6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "day4",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vijay.n/Downloads/Training/Day4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab3d4a4-f8c5-4e56-8851-172bd5a70500" name="Changes" comment="" />
+      <created>1722250285180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722250285180</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit for adding bubble sort">
+      <option name="closed" value="true" />
+      <created>1722250381799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722250381799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding sorting program to repo">
+      <option name="closed" value="true" />
+      <created>1722250585572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722250585572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding linear search programs to day4 branch">
+      <option name="closed" value="true" />
+      <created>1722603027068</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722603027068</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit for adding bubble sort" />
+    <MESSAGE value="Adding sorting program to repo" />
+    <MESSAGE value="Adding linear search programs to day4 branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding linear search programs to day4 branch" />
+  </component>
+</project>
